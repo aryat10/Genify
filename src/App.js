@@ -29,7 +29,7 @@ function App() {
                 Search
             </button>
             <div style={{ marginTop: "20px", fontSize: "18px" }}>
-                {result && <p>🔎 {result}</p>}
+                {result && <p>🔎 {result} </p>}
             </div>
         </div>
     );
